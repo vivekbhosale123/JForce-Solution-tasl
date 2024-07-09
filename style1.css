@@ -1,0 +1,27 @@
+   .c {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: cyan;
+    width: 594px;
+    height: 238px;
+    padding: 20px;
+    margin: 199px;
+}
+.fm{
+  padding: 30px;
+  margin:40px;
+  
+}
+.ft{
+padding: 30px;
+  margin:40px;
+  
+}
+button {
+    padding: 9px;
+    margin: 16px;
+    width: 158px;
+}
+body{
+	background-color:oldlace;
+}

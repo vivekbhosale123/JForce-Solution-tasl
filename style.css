@@ -1,0 +1,51 @@
+form {
+    background-color: darkslategray;
+    width: 398px;
+    height: 340px;
+    margin-top: 200px;
+    text-align: center;
+}
+form.n {
+    text-align: center;
+    margin-left: 533px;
+    height: 446px;
+}
+h1{
+	color: red;
+    margin-top: 100px;
+    padding: 15px;
+}
+input {
+    width: 259px;
+    margin: 7px;
+    padding: 10px;
+}
+input.vp {
+    width: 203px;
+}
+input.vp:hover{
+	color:orange;
+	background-color: green;
+}
+body{
+	background-color:cyan;
+}
+a {
+    width: 163px;
+    background-color: white;
+    padding: 9px;
+    text-decoration: none;
+}
+a:hover{
+	color:orange;
+	background-color: green;
+}
+.c {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: cyan;
+    width: 594px;
+    height: 238px;
+    padding: 20px;
+    margin: 199px;
+}
